@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
 - 🔭 I’m currently working on consolidating some years of notes ive used for work and fun into an organised tidy space, oh and dropping commits daily in 2022
-- 🌱 I’m currently learning about mac security research
+- 🌱 I’m currently learning about macos security research
 - 💬 Ask me Anything
 - 📫 How to reach me 🤔. Where can you find me first?
