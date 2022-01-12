@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 
 -->
-- 🔭 I’m currently working on clearing out the years of notes into a clean and tidy space, and, dropping commits daily for 2022 😄
+- 🔭 I’m currently working on consolidating some years of notes ive used for work and fun into an organised tidy space, oh and dropping commits daily in 2022
 - 🌱 I’m currently learning about mac security research
 - 💬 Ask me about anything
 - 📫 How to reach me: Where can you find me first?
