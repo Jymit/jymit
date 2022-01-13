@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 I'm Jymit
 <!--
 **Jymit/jymit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -11,3 +11,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about macos security research
 - 💬 Ask me Anything
 - 📫 How to reach me 🤔. Where can you find me first?
+
+---
+## Current Research
+
+macos security research 101
+
+### Malware
+
+
+
+### Technical Writeups in progress
+
+
