@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns:
 - ⚡ Fun fact:
 -->
+- 🤔 Thats pronouced jim-it
 - 🔭 I’m currently working on consolidating some years of notes ive used for work and fun into an organised tidy space, oh and dropping commits daily in 2022
 - 🌱 I’m currently learning about macos security research
 - 💬 Ask me Anything
