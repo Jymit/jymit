@@ -20,8 +20,8 @@ macos security research 101
 
 ### Malware
 
-
+tbd
 
 ### Technical Writeups in progress
 
-
+tbd
