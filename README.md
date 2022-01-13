@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me Anything
 - 📫 How to reach me 🤔. Where can you find me first?
 
----
+
+
 ## Current Research
 
 macos security research 101
