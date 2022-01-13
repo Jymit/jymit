@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 macos security research 101
 
-### Malware
-
-tbd
-
 ### Technical Writeups in progress
+
+tbc
+
+### Malware
 
 tbd
