@@ -21,7 +21,7 @@ macos security research 101
 
 ### Technical Writeups in progress
 
-drafting something in meduim - tbd
+drafting in meduim - tbd
 
 ### Malware
 
