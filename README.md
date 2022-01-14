@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 macos security research 101
 ### Technical Writeups in progress
 drafting in meduim - tbd
-### .
+### malware/cve
 tbd
 ### To do list
 
@@ -30,4 +30,4 @@ Play with:
 - https://github.com/objective-see/BlockBlock
 - [Detection-as-Code](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79) blog piece
 - [Detection-as-Code](https://github.com/GoogleCloudPlatform/threat-detection-as-code) GH by GCP
-- [GCP examples](https://github.com/orgs/GoogleCloudPlatform/repositories?q=detection&type=all&language=&sort=) coz I am a detection engineer, right!?
+- [GCP examples](https://github.com/orgs/GoogleCloudPlatform/repositories?q=detection&type=all&language=&sort=) coz I am a security engineer, right!?
