@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns:
 -->
 - 🤔 It's pronouced jim-it
-- 💻 In the past ive worked closely on full stack Open Source Software @ [Zimbra](zimbra.com), [Elastic](elastic.co)
+- 💻 In the past ive worked closely on full stack Open Source Software notably @ [Zimbra](https://www.zimbra.com/), [Elastic](https://www.elastic.co/)
 - 🛡️ At present working in Defensive Security Engineering, albeit working on the dark side of the force sounds like alotta fun 👾
 - 🔭 I’m currently working on consolidating some years of notes ive used for work and fun into an organised tidy space, oh and dropping commits daily in 2022
 - 🌱 I have an interest in learning macOS security research
