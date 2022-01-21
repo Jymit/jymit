@@ -21,7 +21,9 @@ macos security research 101
 drafting in meduim - tbd
 ### Malware/CVEs
 tbd
-### Somethings
+### Something about nothing
+Life Long Learning
+
 Top 10% on tryhackme
 
 Some SANS, Some GIACs
