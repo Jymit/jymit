@@ -22,11 +22,9 @@ drafting in meduim - tbd
 ### Malware/CVEs
 tbd
 ### Something about nothing
-Life Long Learning
-
-Top 10% on tryhackme
-
-Some SANS, Some GIACs
+- Life Long Learning
+- Top 10% on tryhackme
+- Some SANS, Some GIACs
 ### To do list
 Play with:
 - https://github.com/AandersonL/whoexec
