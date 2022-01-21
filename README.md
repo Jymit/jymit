@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 macos security research 101
 ### Technical Writeups in progress
 drafting in meduim - tbd
-### malware/cve
+### Malware/CVEs
 tbd
+### Somethings
+Top 10% on tryhackme
+Some SANS, Some GIACs
 ### To do list
 Play with:
 - https://github.com/AandersonL/whoexec
