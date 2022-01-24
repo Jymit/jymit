@@ -23,7 +23,7 @@ drafting in meduim - tbd
 tbd
 ### Something about nothing
 - Life Long Learning
-- Top 10% on tryhackme
+- Top 8% on tryhackme
 - Some SANS, Some GIACs
 ### To do list
 Play with:
