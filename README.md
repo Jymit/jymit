@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🤔 It's pronouced jim-it
 - 💻 In the past ive worked closely on full stack Open Source Software notably @ [Zimbra](https://www.zimbra.com/), [Elastic](https://www.elastic.co/)
 - 🛡️ At present working in Defensive Security Engineering, although doing some offensive work looks like fun 👾
-- 🔭 I’m currently working on consolidating some years of notes ive used for work and fun into an organised tidy space. Oh and trying to drop daily commits in 2022
-- 🌱 I have an interest in learning macOS security research
+- 🔭 I’m working on consolidating some years of notes ive used for work and fun into an organised tidy space. Oh and trying to drop daily commits in 2022
+- 🌱 I currently have an interest in learning macOS security (R&D)
 - ⚡⚡ I like to solve problems, I like to help others with probelems they may have, be it software, network, architecture, security or anything really
 - 💬 Ask me Anything
 - 📫 How to reach me 🤔. Where can you find me first?
@@ -23,10 +23,9 @@ drafting in meduim - tbd
 tbd
 ### Something about nothing
 - Life Long Learning
-- Top 8% on tryhackme
+- Top 7% on tryhackme
 - Some SANS, Some GIACs
 ### To do list
-Play with:
 - https://github.com/AandersonL/whoexec
 - https://github.com/objective-see/BlockBlock
 - [Detection-as-Code](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79) blog piece
