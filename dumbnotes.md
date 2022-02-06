@@ -37,3 +37,17 @@ Faster at runtime -	Slower at runtime
 More code-intensive -	Less code-intensive
 Creates standalone apps -	Creates apps as part of a stack
 
+
+
+
+
+
+
+
+## Objective-C
+```
+Objective-C is the primary programming language you use when writing software for OS X and iOS. It’s a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime. Objective-C inherits the syntax, primitive types, and flow control statements of C and adds syntax for defining classes and methods. It also adds language-level support for object graph management and object literals while providing dynamic typing and binding, deferring many responsibilities until runtime.
+```
+https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+
+
