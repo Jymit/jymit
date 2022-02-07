@@ -39,15 +39,21 @@ Creates standalone apps -	Creates apps as part of a stack
 
 
 
+## Obj-C vs Swift
+Performance. The official Apple website claims that Swift is 2.6 times faster than Objective-C. However some studies indicate that the difference is not as dramatic. Swift and Objective-C are both statistically typed languages that use the same iOS SDK and the high-quality Low Level Virtual Machine compiler.
 
+Swift is easier to read and easier to learn than Objective-C. Objective-C is over thirty years old, and that means it has a more clunky syntax. ... Also, Swift requires less code. Whereas Objective-C is verbose when it comes to string manipulation, Swift employs string interpolation, without placeholders or tokens.
 
+## Swift
+
+https://www.programiz.com/swift-programming
 
 
 
 ## Objective-C
-```
+
 Objective-C is the primary programming language you use when writing software for OS X and iOS. It’s a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime. Objective-C inherits the syntax, primitive types, and flow control statements of C and adds syntax for defining classes and methods. It also adds language-level support for object graph management and object literals while providing dynamic typing and binding, deferring many responsibilities until runtime.
-```
-https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+
+apple dev [link](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 
 
