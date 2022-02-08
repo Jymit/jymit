@@ -57,3 +57,43 @@ Objective-C is the primary programming language you use when writing software fo
 apple dev [link](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 
 
+
+
+
+## Big O
+Big O Notation describes the complexity of your code using algebraic terms.
+Space and Time Complexity
+Big O notation is one of the most fundamental tools for computer scientists to analyze the cost of an algorithm.
+
+## O(n²) time complexity
+O(n²) which is usually pronounced “Big O squared”
+The letter “n” here represents the input size
+A typical algorithm that has the complexity of O(n²) would be the selection sort algorithm. Selection sort is a sorting algorithm that iterates through the list to ensure every element at index i is the ith smallest/largest element of the list. 
+
+### algos
+Selection sort algo
+in JS
+```function selectionSort(inputArr) { 
+    let n = inputArr.length;
+        
+    for(let i = 0; i < n; i++) {
+        // Finding the smallest number in the subarray
+        let min = i;
+        for(let j = i+1; j < n; j++){
+            if(inputArr[j] < inputArr[min]) {
+                min=j; 
+            }
+         }
+         if (min != i) {
+             // Swapping the elements
+             let tmp = inputArr[i]; 
+             inputArr[i] = inputArr[min];
+             inputArr[min] = tmp;      
+        }
+    }
+    return inputArr;
+}
+```
+
+
+
