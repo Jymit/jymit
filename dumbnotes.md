@@ -57,7 +57,11 @@ Objective-C is the primary programming language you use when writing software fo
 apple dev [link](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 
 
+## CPP
 
+C++ is still the go-to language for solutions that need fast machine performance. AAA video games, IoT, embedded systems, and resource-heavy VR and AI applications all run on C or C++.
+
+https://www.educative.io/blog/c-is-a-good-first-language-to-learn#reasons
 
 
 ## Big O
