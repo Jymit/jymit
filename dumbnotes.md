@@ -63,6 +63,11 @@ C++ is still the go-to language for solutions that need fast machine performance
 
 https://www.educative.io/blog/c-is-a-good-first-language-to-learn#reasons
 
+https://www.w3schools.com/cpp/cpp_functions.asp
+
+A semaphore is generally used as a synchronization object between multiple threads or to protect a limited and finite resource such as a memory or thread pool. The semaphore has a counter which only permits access by one or more threads when the value of the semaphore is non-zero.
+
+
 
 ## Big O
 Big O Notation describes the complexity of your code using algebraic terms.
