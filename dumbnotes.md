@@ -114,4 +114,6 @@ console.log(inputArr);
 clang – a compiler that turns source code into an executable program
 gcc – the GNU compiler
 git – the save-as-you-go version control system
-
+xcode-select --install
+xcode-select -p
+brew
