@@ -122,3 +122,8 @@ xcode-select --install
 xcode-select -p
 
 brew
+
+https://developer.apple.com/xcode/resources/
+
+https://download.developer.apple.com/Developer_Tools/Command_Line_Tools_for_Xcode_12.5.1/Command_Line_Tools_for_Xcode_12.5.1.dmg
+
