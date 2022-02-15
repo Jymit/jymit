@@ -110,3 +110,8 @@ console.log(inputArr);
 ```
 
 
+### other
+clang – a compiler that turns source code into an executable program
+gcc – the GNU compiler
+git – the save-as-you-go version control system
+
