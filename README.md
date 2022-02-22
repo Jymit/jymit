@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me 🤔. Where can you find me first?
 
 ## Current Research
-macos security research 101
+macos security r&d
 ### Technical Writeups in progress
-drafting in meduim - tbd
+tbd
 ### CVEs
 tbd
 ### Something about nothing
@@ -27,6 +27,7 @@ tbd
 - Some SANS, Some GIACs
 ### To Do list
 - https://github.com/AandersonL/whoexec
-- [Detection-as-Code](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79) blog piece
 - [Detection-as-Code](https://github.com/GoogleCloudPlatform/threat-detection-as-code) GH by GCP
 - [GCP examples](https://github.com/orgs/GoogleCloudPlatform/repositories?q=detection&type=all&language=&sort=) coz I am a security engineer, right!?
+### WIP
+- [Detection-as-Code](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79) 
