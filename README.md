@@ -30,4 +30,4 @@ tbd
 - [Detection-as-Code](https://github.com/GoogleCloudPlatform/threat-detection-as-code) GH by GCP
 - [GCP examples](https://github.com/orgs/GoogleCloudPlatform/repositories?q=detection&type=all&language=&sort=) coz I am a security engineer, right!?
 ### WIP
-- [Detection-as-Code](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79) 
+- [Detection-as-Code. DTaC](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79) 
