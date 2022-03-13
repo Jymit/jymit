@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🛡️ At present working in Defensive Security Engineering, which im enjoying alot!
 - 🔭 I’m working on consolidating some years of notes ive used for work and fun into an organised tidy space. Oh and trying to drop daily commits in 2022
 - 🌱 I currently have an interest in learning macOS security (R&D)
-- ⚡⚡ I like to solve problems, I like to help others solve problems they may have, be it people, software, network, architecture, security or anything really
+- ⚡ I like to solve problems, I like to help others solve problems they may have, be it people, software, network, architecture, security or anything really
 - 💬 Ask me Anything
 - 📫 How to reach me 🤔. Where can you find me first?
 
