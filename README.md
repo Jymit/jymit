@@ -23,7 +23,6 @@ tbd
 tbd
 ### Something about nothing
 - Life Long Learning
-- Top 7% on tryhackme
 - Some SANS, Some GIACs
 ### To Do list
 - https://github.com/AandersonL/whoexec
