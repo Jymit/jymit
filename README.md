@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 It's pronouced jim-it
 - 💻 In the past ive worked closely on full stack Open Source Software notably @ [Zimbra](https://www.zimbra.com/), [Elastic](https://www.elastic.co/)
 - 🛡️ At present working in Defensive Security Engineering, which I enjoy learning about the offensive and defensive
-- 🔭 I’m working on consolidating some years of notes ive used for work and fun into an organised tidy space. Oh and trying to drop daily commits in 2022
+- 🔭 I’m working on consolidating some years of notes ive used for work and fun into an organised tidy space. Oh and trying to drop daily commits in 2022. Clearly missed a bunch due to unplanned circumstances
 - 🌱 I currently have an interest in learning macOS security (R&D)
 - ⚡ I like to solve problems, I like to help others solve problems they may have, be it people, software, network, architecture, security or anything really
 - 💬 Ask me Anything
