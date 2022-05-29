@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 ## Current Research
 macOS Security Research
 ### CVEs
-WIP
-- Still learning to get something down, hopefully one this year!?
+WIP - Still learning to get something down, hopefully one this year!?
 - [SANS FOR610](https://www.sans.org/cyber-security-courses/reverse-engineering-malware-malware-analysis-tools-techniques/) & [macOS Control Bypasses](https://www.offensive-security.com/exp312-osmr/) underway at ones own pace
 ### Technical Writeups in progress
 TBD - In draft -	https://medium.com/@jkhondhu
@@ -32,7 +31,7 @@ TBD - In draft -	https://medium.com/@jkhondhu
 ### To Do list (areas I have read about and or want to pursue, implement in some shape or form)
 - [Detection as Code DaC](https://www.cpomagazine.com/cyber-security/why-detection-as-code-is-the-future-of-threat-detection/)
 - [Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) - yara 
-
+- Working out [time complexity](https://adrianmejia.com/how-to-find-time-complexity-of-an-algorithm-code-big-o-notation) because being able to think or work like a swe is never a bad option
 ### Recent reads, recommendations
 - [SANS SOC Survey 2022](https://go.chronicle.security/hubfs/SANS_2022_SOC_Survey.pdf) 
 - [Sec updates w/ AWS](https://aws.amazon.com/about-aws/whats-new/2022/) - sort by sec tool of choice - NEWS: AWS Asia Pacific (Jakarta) Region Now Open
