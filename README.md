@@ -11,22 +11,28 @@ Here are some ideas to get you started:
 - 🛡️ At present working in Defensive Security Engineering, which I enjoy learning about the offensive and defensive
 - 🔭 I’m working on consolidating some years of notes ive used for work and fun into an organised tidy space. Oh and trying to drop daily commits in 2022. Clearly missed a bunch due to unplanned circumstances
 - 🌱 I currently have an interest in learning macOS security (R&D)
+- 🤔 To which, I’m always looking for any new knowledge to do with macOS internals and security - Hoping to attend [OBTSv5](https://objectivebythesea.org/v5/) later this year - cerveza!
 - ⚡ I like to solve problems, I like to help others solve problems they may have, be it people, software, network, architecture, security or anything really
 - 💬 Ask me Anything
 - 📫 How to reach me 🤔. Where can you find me first?
 
 ## Current Research
-macos security r&d
-### Technical Writeups in progress
-tbd
+macOS Security Research
 ### CVEs
-tbd
+WIP
+- Still learning to get something down, hopefully one this year!?
+- [SANS FOR610](https://www.sans.org/cyber-security-courses/reverse-engineering-malware-malware-analysis-tools-techniques/) & [macOS Control Bypasses](https://www.offensive-security.com/exp312-osmr/) underway at ones own pace
+### Technical Writeups in progress
+TBD - In draft -	https://medium.com/@jkhondhu
 ### Something about nothing
-- Life Long Learning
+- Life Long Learning (a must)
+- There cannot be any learning without teaching/mentoring (reach out to talk about tech and cyber)
 - Some SANS, Some GIACs
-### To Do list
-- https://github.com/AandersonL/whoexec
-- [Detection-as-Code](https://github.com/GoogleCloudPlatform/threat-detection-as-code) GH by GCP
-- [GCP examples](https://github.com/orgs/GoogleCloudPlatform/repositories?q=detection&type=all&language=&sort=) coz I am a security engineer, right!?
-### WIP
-- [Detection-as-Code. DTaC](https://medium.com/anton-on-security/can-we-have-detection-as-code-96f869cfdc79) 
+- Along with some experience in different tech spaces
+### To Do list (areas I have read about and or want to pursue, implement in some shape or form)
+- [Detection as Code DaC](https://www.cpomagazine.com/cyber-security/why-detection-as-code-is-the-future-of-threat-detection/)
+- [Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) - yara 
+
+### Recent reads, recommendations
+- [SANS SOC Survey 2022](https://go.chronicle.security/hubfs/SANS_2022_SOC_Survey.pdf) 
+- [Sec updates w/ AWS](https://aws.amazon.com/about-aws/whats-new/2022/) - sort by sec tool of choice - NEWS: AWS Asia Pacific (Jakarta) Region Now Open
