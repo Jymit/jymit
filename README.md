@@ -31,8 +31,8 @@ TBD - In draft -	https://medium.com/@jkhondhu
 ### To Do list (areas I have or am reading about and or want to pursue, implement in some shape or form)
 - [Detection as Code DaC](https://www.cpomagazine.com/cyber-security/why-detection-as-code-is-the-future-of-threat-detection/)
 - [Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) - yara 
-- Working out [time complexity](https://adrianmejia.com/how-to-find-time-complexity-of-an-algorithm-code-big-o-notation) because being able to think or work like a swe is never a bad option
+- Working out [time complexity](https://adrianmejia.com/how-to-find-time-complexity-of-an-algorithm-code-big-o-notation) because being able to think or work like a swe is never a bad shout
 - Apple Endpoint Security Framework ESF - Talk from [BSides Munich](https://youtu.be/XNFU9296_r0?t=139) by Connor Morley
 ### Recent reads, recommendations
 - [SANS SOC Survey 2022](https://go.chronicle.security/hubfs/SANS_2022_SOC_Survey.pdf) 
-- [Sec updates w/ AWS](https://aws.amazon.com/about-aws/whats-new/2022/) - sort by sec tool of choice - NEWS: AWS Asia Pacific (Jakarta) Region Now Open
+- [Sec updates w/ AWS](https://aws.amazon.com/about-aws/whats-new/2022/) - sort by sec tool of choice - eg. AWS Asia Pacific (Jakarta) Region now open
