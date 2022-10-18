@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 macOS Security Research
 ### CVEs
 WIP - Still learning to get something down, hopefully one this year!?
-- [SANS FOR610](https://www.sans.org/cyber-security-courses/reverse-engineering-malware-malware-analysis-tools-techniques/) & [macOS Control Bypasses](https://www.offensive-security.com/exp312-osmr/) underway at ones own pace
+- [GIAC GIME exam](https://www.giac.org/certifications/ios-macos-examiner-gime/) & [macOS Control Bypasses](https://www.offensive-security.com/exp312-osmr/) underway.
 ### Technical Writeups in progress
 WIP time permitting/TBD - In draft -	https://medium.com/@jkhondhu
 ### Something about nothing
