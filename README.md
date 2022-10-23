@@ -22,7 +22,7 @@ macOS Security Research
 WIP - Still learning.. hopefully soon!?
 - [GIAC GIME](https://www.giac.org/certifications/ios-macos-examiner-gime/) & [macOS Control Bypasses](https://www.offensive-security.com/exp312-osmr/) underway.
 ### Technical Writeups in progress
-WIP time permitting - Hoping to draft a couple in the next 9-12 months -	https://medium.com/@jkhondhu
+WIP time permitting - Hoping to draft a couple in the next 9-12 months on	[medium](https://medium.com/@jkhondhu).
 ### Something about nothing
 - Life Long Learning (a must)
 - There cannot be any learning without teaching/mentoring (reach out to talk about tech and cyber)
