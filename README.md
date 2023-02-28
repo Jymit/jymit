@@ -1,4 +1,4 @@
-### Ohayo 👋 Jymit here.
+### Hey! Jymit here.
 <!--
 **Jymit/jymit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
@@ -6,23 +6,23 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with
 - 😄 Pronouns:
 -->
-- 🤔 It's pronouced jim-it
+- 🤔 It's pronouced Jim-it
 - 💻 In the past ive worked closely on full stack Open Source Software Engineering notably @ [Zimbra](https://www.zimbra.com/), [Elastic](https://www.elastic.co/)
 - 🛡️ At present working in SecOps Security Engineering at scale
-- 🔭 Working on consolidating some years of notes as well as some of the new stuff im learning and fun into an organised tidy space. Trying and failing to drop daily commits in 2022. Missed a bunch due to unplanned circumstances
-- 🌱 I have an interest in learning and research to do with macOS security
+- 🔭 Working on consolidating some years of notes as well as some of the new stuff im learning and fun into an organised tidy space. Trying and failing to drop daily commits in ~~2022~~. Missed a bunch due to unplanned circumstances.
+- 🌱 I have an interest in macOS security research
 - 🤔 To which, I’m always looking for any new knowledge to do with macOS internals and security - Attended [OBTSv5](https://objectivebythesea.org/v5/)
 - ⚡ I like to solve problems, I like to help others solve problems they may have, be it people, software, network, architecture, security or anything really
 - 💬 Ask me Anything
 - 📫 How to reach me 🤔. Where can you find me first?
 
-## Current Research
-macOS Security Research
+## Current ~~Research~~ Learning
+macOS Security 
 ### CVEs
-WIP - Still learning.. hopefully soon!?
-- [GIAC GIME](https://www.giac.org/certifications/ios-macos-examiner-gime/) & [macOS Control Bypasses](https://www.offensive-security.com/exp312-osmr/) underway.
+WIP - hopefully soon!?
+- [GIAC GIME](https://www.giac.org/certifications/ios-macos-examiner-gime/) recently accaccomplished, maybe take on [macOS Control Bypasses](https://www.offensive-security.com/exp312-osmr/) next.
 ### Technical Writeups in progress
-WIP time permitting - Hoping to draft a couple in the next 9-12 months on	[medium](https://medium.com/@jkhondhu).
+WIP time permitting - Hoping to draft a couple in the next 9-12 months on	[medium](https://medium.com/@jkhondhu), current ideas are for non technical pieces.
 ### Something about nothing
 - Life Long Learning (a must)
 - There cannot be any learning without teaching/mentoring (reach out to talk about tech and cyber)
@@ -30,10 +30,8 @@ WIP time permitting - Hoping to draft a couple in the next 9-12 months on	[mediu
 - Along with some experience in different tech spaces
 #### To update below to be more up to date
 ### To Do list (areas I have or am reading about and or want to pursue, implement in some shape or form)
-- [Detection as Code DaC](https://www.tines.com/blog/automating-detection-as-code)
-- [AWS Guardduty](https://aws.amazon.com/guardduty/features/) - innerworkings
+- macOS internals / malware / writing and learning my own escapes
 - Working out [time complexity](https://adrianmejia.com/how-to-find-time-complexity-of-an-algorithm-code-big-o-notation) because being able to think or work like a swe is never a bad idea
+### Recent reading, recommendations
 - Apple Endpoint Security Framework ESF - Talk from [BSides Munich](https://youtu.be/XNFU9296_r0?t=139) by Connor Morley
-### Recent reads, recommendations
-- [SANS SOC Survey 2022](https://go.chronicle.security/hubfs/SANS_2022_SOC_Survey.pdf) 
-- [Sec updates from AWS](https://aws.amazon.com/about-aws/whats-new/2022/) - sort by sec tool of choice - eg. New ML Rules added to Guardduty
+- [Sec updates from AWS](https://aws.amazon.com/about-aws/whats-new/2023/) - filter by security tool of choice - eg. AWS Security Hub launches 7 new security controls
