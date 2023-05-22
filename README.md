@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 🛡️ At present working in SecOps Security Engineering at scale
 - 🔭 Working on consolidating some years of notes as well as some of the new stuff im learning and fun into an organised tidy space. Trying and failing to drop daily commits in ~~2022~~. Missed a bunch due to unplanned circumstances.
 - 🌱 I have an interest in macOS security research
-- 🤔 To which, I’m always looking for any new knowledge to do with macOS internals and security - Attended [OBTSv5](https://objectivebythesea.org/v5/) and looking forward to OBTSv6 Oct 9ᵗʰ - 13ᵗʰ 2023!
-- ⚡ I like to solve problems, I like to help others solve problems they may have, be it people, software, network, architecture, security or anything really
+- 🤔 To which, I’m always looking for any new knowledge to do with macOS internals and security - Attended [OBTSv5](https://objectivebythesea.org/v5/) and looking forward to [OBTSv6](https://objectivebythesea.org/v6/index.html).
+- ⚡ I like to solve problems, I like to help others solve problems they may have, be it people, software, network, architecture, security...
 - 💬 Ask me Anything
 - 📫 How to reach me 🤔. Where can you find me first?
 
