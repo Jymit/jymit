@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 macOS Security Research
 ### CVEs
 WIP - hopefully soon!?
-- [GIAC GIME](https://www.giac.org/certifications/ios-macos-examiner-gime/) recently accaccomplished, maybe take on [macOS Control Bypasses](https://www.offensive-security.com/exp312-osmr/) next, however might take on learning and instrument first.
+- [GIAC GIME](https://www.giac.org/certifications/ios-macos-examiner-gime/) recently accaccomplished, maybe take on [macOS Control Bypasses](https://www.offensive-security.com/exp312-osmr/) next, however might take on learning an instrument first.
 ### Technical Writeups in progress
 WIP time permitting - Hoping to draft a couple in the next 9-12 months on	[medium](https://medium.com/@jkhondhu), current ideas are for non technical pieces, thinking social anxiety and working in tech, leadership styles, and empathy as a leader.
 ### Something about nothing
