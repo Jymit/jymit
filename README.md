@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ I like to solve problems, and I like to help others solve problems they may have, be it people, software, networking to architecture, security.
 - 📫 How to reach me - Where can you find me first?
 
-## Currently Learning
+### Currently Learning
 How to be an effective and better Engineering Leader
 
 ### My Technical Writing
