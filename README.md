@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns:
 -->
 - 🤔 It's pronouced Jim-it
-- 💻 I have worked in Security Engineering @ [Amazon Web Services](https://aws.amazon.com/security/), [Credit Karma(https://www.creditkarma.com/)] and Full Stack Open Source Software Engineering @ [Elastic](https://www.elastic.co/), [Zimbra](https://www.zimbra.com/).
+- 💻 I have worked in Security Engineering @ [Amazon Web Services](https://aws.amazon.com/security/), [Credit Karma](https://www.creditkarma.com/) and Full Stack Open Source Software Engineering @ [Elastic](https://www.elastic.co/), [Zimbra](https://www.zimbra.com/).
 - 🌱 I love working on a MacBook and with that have had an interest in macOS security research, so will share what I find on Linkedin or here sometimes.
 - 💬 I have an interest in engineering leadership, people and growth.
 - ⚡ I like to solve problems, and I like to help others solve problems they may have, be it people, software, networking to architecture, security.
